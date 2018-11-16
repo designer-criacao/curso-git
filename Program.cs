@@ -8,7 +8,7 @@ namespace projetoum
         {
             Console.WriteLine("Olá Ivo, td bem?");
             Console.WriteLine("Boa noite!!!!");
-            Console.WriteLine("Vc está bem?");
+            Console.WriteLine("Tenha uma ótima noite!");
 
             Console.ReadLine();
         }
