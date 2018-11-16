@@ -7,6 +7,7 @@ namespace projetoum
         static void Main(string[] args)
         {
             Console.WriteLine("Olá Ivo, td bem?");
+            Console.WriteLine("Boa noite!!!!");
 
             Console.ReadLine();
         }
