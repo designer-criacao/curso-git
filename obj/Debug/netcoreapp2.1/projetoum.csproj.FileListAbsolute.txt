@@ -1,0 +1,11 @@
+C:\Users\ivoos\Desktop\git\projetoum\bin\Debug\netcoreapp2.1\projetoum.deps.json
+C:\Users\ivoos\Desktop\git\projetoum\bin\Debug\netcoreapp2.1\projetoum.runtimeconfig.json
+C:\Users\ivoos\Desktop\git\projetoum\bin\Debug\netcoreapp2.1\projetoum.runtimeconfig.dev.json
+C:\Users\ivoos\Desktop\git\projetoum\bin\Debug\netcoreapp2.1\projetoum.dll
+C:\Users\ivoos\Desktop\git\projetoum\bin\Debug\netcoreapp2.1\projetoum.pdb
+C:\Users\ivoos\Desktop\git\projetoum\obj\Debug\netcoreapp2.1\projetoum.csprojAssemblyReference.cache
+C:\Users\ivoos\Desktop\git\projetoum\obj\Debug\netcoreapp2.1\projetoum.csproj.CoreCompileInputs.cache
+C:\Users\ivoos\Desktop\git\projetoum\obj\Debug\netcoreapp2.1\projetoum.AssemblyInfoInputs.cache
+C:\Users\ivoos\Desktop\git\projetoum\obj\Debug\netcoreapp2.1\projetoum.AssemblyInfo.cs
+C:\Users\ivoos\Desktop\git\projetoum\obj\Debug\netcoreapp2.1\projetoum.dll
+C:\Users\ivoos\Desktop\git\projetoum\obj\Debug\netcoreapp2.1\projetoum.pdb
